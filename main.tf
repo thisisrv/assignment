@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-east-2" # Change this to your desired AWS region
-  access_key = "AKIA5LCMVADVAW4ODYOK"
-  secret_key = "ZRH4HzQHX5ettg7LQN0nljNFm5Maeyx36He9r8LC"
+  access_key = "#"
+  secret_key = "#"
 }
 
 # Creating everything in Default VPC, I can also create VPC and them create ec2 in that VPC.
